@@ -9,6 +9,7 @@
   echo link_tag('design/adminhtml/bower_components/Ionicons/css/ionicons.min.css');
   echo link_tag('design/adminhtml/dist/css/AdminLTE.min.css');
   echo link_tag('design/adminhtml/dist/css/skins/skin-blue.min.css');
+  echo link_tag('design/adminhtml/plugins/iCheck/square/blue.css');
 ?>
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

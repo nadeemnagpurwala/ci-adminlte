@@ -44,3 +44,4 @@
 			<?php include_once(APPPATH.'common_files/footer.php'); ?>
 		</div>
 	</body>
+</html>
